@@ -1,0 +1,107 @@
+﻿INFO 2022-01-03T13:11:49.425: DIALuxVersion = 5.10.0.56785
+INFO 2022-01-03T13:11:49.425: DIALuxType = mf_Patch1 1B17005014
+INFO 2022-01-03T13:11:49.425: InstanceId = b82b3a583c76f38ece390f59b4bfee20
+INFO 2022-01-03T13:11:49.425: DIALuxPid = 12132
+INFO 2022-01-03T13:11:49.425: DIALuxPidList = 12132
+INFO 2022-01-03T13:11:49.426: DIALuxBitwidth = 64
+INFO 2022-01-03T13:11:49.426: InternetAvailable = 0
+INFO 2022-01-03T13:11:49.426: DIALuxLogtime = 20220103_131149
+INFO 2022-01-03T13:11:49.433: NeedsReboot = False
+INFO 2022-01-03T13:11:49.434: ProductTracking = True
+INFO 2022-01-03T13:11:49.434: DIALux wird gestartet.
+INFO 2022-01-03T13:11:50.442: Verbindung erfolgreich
+INFO 2022-01-03T13:11:51.323: AdCache Datei existiert nicht
+INFO 2022-01-03T13:11:51.324: AdServer liefert keine Anzeige zurück.
+INFO 2022-01-03T13:11:59.078: System Proxy ausgewählt
+INFO 2022-01-03T13:11:59.149: ViewOption: Wireframe False
+INFO 2022-01-03T13:11:59.149: ViewOption: FalseColors False
+INFO 2022-01-03T13:11:59.150: ViewOption: EnergyTachometer False
+INFO 2022-01-03T13:11:59.150: ViewOption: EnergyTachometerDisplayType Consumption
+INFO 2022-01-03T13:11:59.150: ViewOption: LightTexturesOff False
+INFO 2022-01-03T13:11:59.150: ViewOption: Snap True
+INFO 2022-01-03T13:11:59.150: ViewOption: DwgDrawings True
+INFO 2022-01-03T13:11:59.150: ViewOption: AuxiliaryLines True
+INFO 2022-01-03T13:11:59.150: ViewOption: DimensioningObjects True
+INFO 2022-01-03T13:11:59.151: ViewOption: LightDistribution False
+INFO 2022-01-03T13:11:59.151: ViewOption: CalculationObjects False
+INFO 2022-01-03T13:11:59.151: ViewOption: SuspendedCeilingIfCameraBelow True
+INFO 2022-01-03T13:11:59.151: ViewOption: WallContours False
+INFO 2022-01-03T13:11:59.151: ViewOption: RoomElements True
+INFO 2022-01-03T13:11:59.151: ViewOption: FloorSlabIfCameraAbove True
+INFO 2022-01-03T13:11:59.151: ViewOption: RoofIfCameraBelow True
+INFO 2022-01-03T13:11:59.151: ViewOption: SpacesContours False
+INFO 2022-01-03T13:11:59.151: ViewOption: Spaces False
+INFO 2022-01-03T13:11:59.151: ViewOption: Openings False
+INFO 2022-01-03T13:11:59.151: ViewOption: DeletedRoofPart False
+INFO 2022-01-03T13:11:59.151: ViewOption: SkyBox True
+INFO 2022-01-03T13:11:59.151: ViewOption: CoordSys False
+INFO 2022-01-03T13:11:59.151: ViewOption: RoomStamp True
+INFO 2022-01-03T13:11:59.151: ViewOption: CustomSpaceContourVisibility False
+INFO 2022-01-03T13:11:59.151: ViewOption: WorkPlanes False
+INFO 2022-01-03T13:11:59.151: ViewOption: DaylightPlanes False
+INFO 2022-01-03T13:11:59.151: ViewOption: Chartings True
+INFO 2022-01-03T13:11:59.151: ViewOption: BoundingBoxes False
+INFO 2022-01-03T13:11:59.151: ViewOption: LocalCoordinateSystems False
+INFO 2022-01-03T13:11:59.151: ViewOption: AzimuthReferenceDirection False
+INFO 2022-01-03T13:11:59.151: ViewOption: EmptySpaces False
+INFO 2022-01-03T13:11:59.151: ViewOption: EmergencyLightSceneIsActive False
+INFO 2022-01-03T13:11:59.152: ViewOption: DinEn12464TaskAreas False
+INFO 2022-01-03T13:11:59.152: ViewOption: DinEn12464TaskSurroundingAreas False
+INFO 2022-01-03T13:11:59.152: ViewOption: DinEn12464ActivityAreas False
+INFO 2022-01-03T13:11:59.152: ViewOption: DinEn12464RoomMainSurfaces False
+INFO 2022-01-03T13:11:59.152: ViewOption: EscapeRoutes False
+INFO 2022-01-03T13:11:59.152: ViewOption: AntiPanicArea False
+INFO 2022-01-03T13:11:59.152: ViewOption: RealtimeLight False
+INFO 2022-01-03T13:11:59.152: ViewOption: DoorsWindowsSkylight True
+INFO 2022-01-03T13:11:59.152: ViewOption: LeoOrientation False
+INFO 2022-01-03T13:11:59.152: ViewOption: ReferenceCoordSys True
+INFO 2022-01-03T13:11:59.152: ViewOption: RealSurfaceResults False
+INFO 2022-01-03T13:11:59.152: ViewOption: NorthArrow False
+INFO 2022-01-03T13:11:59.152: ViewOption: Ldc3DView True
+INFO 2022-01-03T13:11:59.152: ViewOption: MinimumIcons False
+INFO 2022-01-03T13:11:59.152: ViewOption: WhiteBalanceMethod Automatic
+INFO 2022-01-03T13:11:59.152: ViewOption: WhitePointTemperature 
+INFO 2022-01-03T13:11:59.152: ViewOption: FalseColorType Illuminance
+INFO 2022-01-03T13:11:59.152: ViewOption: FalseColorInterpolation Solid
+INFO 2022-01-03T13:11:59.152: ViewOption: ShowFalseColorsLegend False
+INFO 2022-01-03T13:11:59.152: ViewOption: DisableUCS False
+INFO 2022-01-03T13:11:59.153: ViewOption: Brightness 
+INFO 2022-01-03T13:11:59.153: ViewOption: FixAverageLuminance False
+INFO 2022-01-03T13:12:01.537: DIALux_Systeminfo.txt wurde geschrieben.
+INFO 2022-01-03T13:12:01.656: Userlog: Blacklist loaded
+INFO 2022-01-03T13:12:01.656: Userlog: Blacklist file does not exist
+INFO 2022-01-03T13:12:01.702: FillFromDirectoriesOnIdle started for BuildingOpeningCatalogItemCollection
+INFO 2022-01-03T13:12:01.704: FillFromDirectoriesOnIdle finished with Ok
+INFO 2022-01-03T13:12:02.128: FillFromDirectoriesOnIdle started for LampCatalogItemCollection
+INFO 2022-01-03T13:12:02.128: FillFromDirectoriesOnIdle finished with Ok
+WARNING 2022-01-03T13:12:02.147: Die RecentUtilisationSettings wurden nicht gefunden. Möglicherweise laufen 2 Instanzen.
+WARNING 2022-01-03T13:12:02.188: Die RecentUtilisationSettings wurden auf den Default zurückgesetzt.
+INFO 2022-01-03T13:12:02.266: Workspace: StartWorkspace
+INFO 2022-01-03T13:12:02.276: Mode: StartMode
+INFO 2022-01-03T13:12:02.279: SideTool: DeactivatedTool
+INFO 2022-01-03T13:12:02.282: Tool: NoTool
+INFO 2022-01-03T13:12:02.975: StartMode ready
+INFO 2022-01-03T13:12:06.028: System Proxy ausgewählt
+INFO 2022-01-03T13:12:06.089: AdCache new ads requested
+INFO 2022-01-03T13:12:06.090: System Proxy ausgewählt
+INFO 2022-01-03T13:12:06.090: System Proxy ausgewählt
+INFO 2022-01-03T13:12:06.095: System Proxy ausgewählt
+INFO 2022-01-03T13:12:06.099: System Proxy ausgewählt
+INFO 2022-01-03T13:12:07.050: Update check gestartet.
+INFO 2022-01-03T13:12:07.052: System Proxy ausgewählt
+INFO 2022-01-03T13:12:07.069: System Proxy ausgewählt
+INFO 2022-01-03T13:12:07.907: Update check beendet.
+INFO 2022-01-03T13:12:07.958: BaseCatalogItem: IsFavorite was changed to True: 8b480646e521e471532c3e6025ae8fc8ee683de9
+INFO 2022-01-03T13:12:07.971: BaseCatalogItem: IsFavorite was changed to True: c057d8c1595f76aba842088be9d591eaa12132dc
+INFO 2022-01-03T13:12:08.009: AdCache updating
+INFO 2022-01-03T13:12:08.013: AdCache sync finished
+INFO 2022-01-03T13:12:08.069: System Proxy ausgewählt
+INFO 2022-01-03T13:12:08.070: Command: DIALuxCommands:SendFeedbackData
+INFO 2022-01-03T13:12:08.071: DIALux_Systeminfo.txt wurde geschrieben.
+INFO 2022-01-03T13:12:08.178: System Proxy ausgewählt
+INFO 2022-01-03T13:12:08.542: System Proxy ausgewählt
+INFO 2022-01-03T13:12:08.718: BaseCatalogItem: IsFavorite was changed to True: 8b480646e521e471532c3e6025ae8fc8ee683de9
+INFO 2022-01-03T13:12:09.350: Verbindungstest wird gestartet
+INFO 2022-01-03T13:12:09.350: System Proxy ausgewählt
+INFO 2022-01-03T13:12:09.563: Verbindung erfolgreich
+INFO 2022-01-03T13:12:10.135: DIALux wird beendet.
